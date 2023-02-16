@@ -1,0 +1,26 @@
+.box{
+    
+    /* border: 1px solid gray; */
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px gray;
+}
+.buy-btn{
+    padding:10px 10px;
+    border: none;
+    background-color: rgb(133, 15, 125);
+    border-radius: 10px;
+    color: white;
+    margin-top:5px;
+}
+.money-tracker{
+    
+    
+    border: 1px solid gray;
+    padding: 20px;
+}
+.logo{
+    
+    height: 70px;
+
+}
